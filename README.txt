@@ -56,7 +56,10 @@ Existing Git Repo?
   cd existing_git_repo
   git remote add origin git@github.com:ScottMitchell/ContactManager.git
   git push origin master
-      
+  
+   or
+
+   git pull git@github.com:ScottMitchell/ContactManager.git
 
 Importing a Subversion Repo?
 
